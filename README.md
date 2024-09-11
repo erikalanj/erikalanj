@@ -14,7 +14,7 @@
       Through text/call; 203-217-2427
   
 - Pronouns: he/him
-- 
+  
 - Fun fact: I am also a musician (guitarist) that is looking to begin perfoming at local venues and open mics!
 
 <!---
