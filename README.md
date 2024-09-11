@@ -3,7 +3,7 @@
   
 - I’m interested in anything computer science, particularly some elements of computer security and software engineering
 
-- I’m currently learning how to analyze algorithms at a high level, am currently building on my programming repetoire and library of languages
+- I’m currently learning how to analyze algorithms at a high level, am currently building on my programming repetoire (more languages)
   and some introductory skills in cybersecurity
   
 - I’m looking to collaborate on exciting important projects, with elements that would reinforce the skills I already have, and foreign ones
