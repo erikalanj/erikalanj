@@ -2,7 +2,7 @@
   completed minor in Mathematics!
   
 - I’m interested in anything computer science, particularly some elements of computer security and software engineering
-
+- 
 - I’m currently learning how to analyze algorithms at a high level, am currently building on my programming repetoire (more languages)
   and some introductory skills in cybersecurity
   
