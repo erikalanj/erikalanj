@@ -3,14 +3,13 @@
   
 - I’m interested in anything computer science, particularly some elements of computer security, data engineering, and web design.
 
-- I’m currently learning how to analyze algorithms at a high level, am building on my programming repetoire (more languages)
-  and am diving into some introductory skills in cybersecurity
+- I'm currently conducting some Machine Learning research under supervision of one of my universities Professors, focalized in Decision Trees
   
 - I’m looking to collaborate on exciting important projects, with elements that would reinforce the skills I already have, and foreign ones
   which will challenge my knowledge
   
 - How to reach me:
-      Through email; erikalanj@gmail.com
+      Through email; erikj@my.ccsu.edu
       Through text/call; 203-217-2427
   
 - Pronouns: he/him
