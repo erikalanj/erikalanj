@@ -1,7 +1,7 @@
 - Hi, I’m Erik Jensen, an undergrad (class 2025) at Central Connecticut State University with a concentration in Computer Science and an already
   completed minor in Mathematics!
   
-- I’m interested in anything computer science, particularly some elements of application development, web design and computer security.
+- I’m interested in anything computer science, particularly some elements of data engineering, web development, and computer security.
 
 - I'm currently conducting some Machine Learning research under supervision of one of my universities Professors, focalized in Decision Trees
   
