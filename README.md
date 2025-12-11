@@ -1,11 +1,8 @@
-- Hi, I’m Erik Jensen, an undergrad (class 2025) at Central Connecticut State University with a concentration in Computer Science and an already
-  completed minor in Mathematics!
+- Hi, I’m Erik Jensen, a software engineer who loves working on cool web apps and integrating ML to efficient workflows!
   
-- I’m interested in anything computer science, particularly some elements of data engineering, web development, and computer security.
+- Currently working for The Cigna Group as a Software Engineer in the TECDP program
 
-- I'm currently conducting some Machine Learning research under supervision of one of my universities Professors, focalized in Decision Trees
-  
-- I’m looking to collaborate on exciting important projects, with elements that would reinforce the technologies I already know, and motivate me to learn new tools
+- Graduate from Central Connecticut State University (Computer Science BS, Math Minor)
   
 - How to reach me:
       Through email; erikj@my.ccsu.edu
