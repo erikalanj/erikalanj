@@ -1,4 +1,7 @@
-- Hi, I’m Erik Jensen, a software engineer who loves working on cool web apps and integrating ML to efficient workflows!
+# Hi, I’m Erik Jensen! :D
+
+- I'm a software engineer who **loves** working on cool web apps and integrating ML to efficient workflows!
+> While this is what I nerd about, I have also worked on mobile apps, Electron-based executables, and even some robotics!
   
 - Currently working for The Cigna Group as a Software Engineer in the TECDP program
 
